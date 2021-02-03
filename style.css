@@ -1,14 +1,23 @@
+.body {background-color: darkgreen;}
+
 .title {text-align: center;}
+
 .poster {
     border-color: blueviolet;
     height: 250px;
     width: 200px;
+
+}
+.sizing {
+    text-align: center;
 }
 .description {
     text-align: center;
     width: 70%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 footer {
+    text-align: center;
     position: fixed;
     position: sticky;
 }
